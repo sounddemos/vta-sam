@@ -72,6 +72,62 @@
   <thead>
     <tr>
       <th>System</th>
+      <th>Pigeon Dove Cooing</th>
+      <th>Dog Bow-wow</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+   <tr>
+    <td>GT </td>
+     <td><video style="height: 200px; width: auto;" controls="" preload="auto">
+            <source src="videos/gt/10-gt.mp4"></video></td>
+     <td><video style="height: 200px; width: auto;" controls="" preload="auto">
+            <source src="videos/gt/11-gt.mp4"></video></td>
+   </tr>
+   <tr>
+      <td>Tango </td>
+      <td><video style="height: 200px; width: auto;" controls="" preload="auto">
+            <source src="videos/tango/10-1.mp4"></video></td>
+      <td><video style="height: 200px; width: auto;" controls="" preload="auto">
+            <source src="videos/tango/11-1.mp4"></video></td>
+   </tr>
+   <tr>
+   <td>Diff-Foley </td>
+     <td><video style="height: 200px; width: auto;" controls="" preload="auto">
+            <source src="videos/diff-foley/10-2.mp4"></video></td>
+     <td><video style="height: 200px; width: auto;" controls="" preload="auto">
+            <source src="videos/diff-foley/11-2.mp4"></video></td>
+   </tr>
+   <tr>
+    <td>VTA-LDM </td>
+     <td><video style="height: 200px; width: auto;" controls="" preload="auto">
+            <source src="videos/vta-ldm/10-3.mp4"></video></td>
+     <td><video style="height: 200px; width: auto;" controls="" preload="auto">
+            <source src="videos/vta-ldm/11-3.mp4"></video></td>
+   </tr>
+   <tr>
+    <td>FoleyCrafter </td>
+     <td><video style="height: 200px; width: auto;" controls="" preload="auto">
+            <source src="videos/foleycrafter/10-4.mp4"></video></td>
+     <td><video style="height: 200px; width: auto;" controls="" preload="auto">
+            <source src="videos/foleycrafter/11-4.mp4"></video></td>
+   </tr>
+   <tr>
+    <td>VTA-SAM </td>
+     <td><video style="height: 200px; width: auto;" controls="" preload="auto">
+            <source src="videos/vta-sam/10-5.mp4"></video></td>
+     <td><video style="height: 200px; width: auto;" controls="" preload="auto">
+            <source src="videos/vta-sam/11-5.mp4"></video></td>
+   </tr>
+  </tbody>
+</table>
+
+<br>
+<table align="center">
+  <thead>
+    <tr>
+      <th>System</th>
       <th>Canary Calling</th>
       <th>Playing Badmintonn</th>
     </tr>
